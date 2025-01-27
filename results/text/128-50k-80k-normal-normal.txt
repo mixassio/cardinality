@@ -1,0 +1,400 @@
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1099064
+Error: 6.47028 %
+Performance: 2.81751e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 989154
+Error: 4.17709 %
+Performance: 2.40339e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1081646
+Error: 4.78294 %
+Performance: 3.13705e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1036386
+Error: 0.398441 %
+Performance: 3.12038e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1031750
+Error: 0.0506649 %
+Performance: 3.47872e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1070602
+Error: 3.71307 %
+Performance: 3.23395e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 999758
+Error: 3.14985 %
+Performance: 3.4559e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1004594
+Error: 2.68136 %
+Performance: 3.5915e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1013421
+Error: 1.82626 %
+Performance: 3.6094e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1041369
+Error: 0.881162 %
+Performance: 1.90926e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1042715
+Error: 1.01155 %
+Performance: 2.78709e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1036987
+Error: 0.456662 %
+Performance: 1.89414e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1063982
+Error: 3.07176 %
+Performance: 3.45843e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1006544
+Error: 2.49246 %
+Performance: 3.56053e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 990204
+Error: 4.07538 %
+Performance: 3.43753e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1021208
+Error: 1.07191 %
+Performance: 3.58584e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1064546
+Error: 3.1264 %
+Performance: 3.52935e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1050638
+Error: 1.77908 %
+Performance: 3.56856e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1049413
+Error: 1.66041 %
+Performance: 3.57421e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 991966
+Error: 3.90468 %
+Performance: 3.48507e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1016917
+Error: 1.48759 %
+Performance: 3.57752e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1006581
+Error: 2.48888 %
+Performance: 3.51144e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1029660
+Error: 0.253131 %
+Performance: 3.57929e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1072239
+Error: 3.87165 %
+Performance: 3.56588e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1100406
+Error: 6.60029 %
+Performance: 3.53562e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1041656
+Error: 0.908965 %
+Performance: 1.97246e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1001848
+Error: 2.94738 %
+Performance: 3.58681e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1018979
+Error: 1.28784 %
+Performance: 1.93742e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1013951
+Error: 1.77492 %
+Performance: 3.57809e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1019381
+Error: 1.24889 %
+Performance: 2.67053e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1019139
+Error: 1.27234 %
+Performance: 3.49174e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 993055
+Error: 3.79919 %
+Performance: 3.53586e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1053372
+Error: 2.04394 %
+Performance: 3.44948e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1009502
+Error: 2.20591 %
+Performance: 3.44583e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1019095
+Error: 1.2766 %
+Performance: 3.57579e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 955167
+Error: 7.46954 %
+Performance: 2.62266e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1036317
+Error: 0.391757 %
+Performance: 3.58331e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1032680
+Error: 0.0394276 %
+Performance: 3.56548e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1053187
+Error: 2.02601 %
+Performance: 3.59416e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1033996
+Error: 0.166913 %
+Performance: 3.52263e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 989950
+Error: 4.09998 %
+Performance: 3.60855e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1056966
+Error: 2.3921 %
+Performance: 3.49531e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1023085
+Error: 0.890075 %
+Performance: 3.60424e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1007099
+Error: 2.4387 %
+Performance: 3.56181e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1067877
+Error: 3.44909 %
+Performance: 3.57945e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1032395
+Error: 0.0118186 %
+Performance: 3.31102e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1066785
+Error: 3.3433 %
+Performance: 3.5158e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1002246
+Error: 2.90882 %
+Performance: 3.59932e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1021926
+Error: 1.00235 %
+Performance: 3.47888e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 995601
+Error: 3.55255 %
+Performance: 3.51334e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1044025
+Error: 1.13846 %
+Performance: 3.58706e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1093503
+Error: 5.93157 %
+Performance: 3.21369e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1051473
+Error: 1.85997 %
+Performance: 3.5815e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1044630
+Error: 1.19707 %
+Performance: 3.57887e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 980728
+Error: 4.99335 %
+Performance: 3.47728e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1048388
+Error: 1.56112 %
+Performance: 3.56776e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1044282
+Error: 1.16336 %
+Performance: 3.57545e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1081501
+Error: 4.76889 %
+Performance: 3.58935e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1049903
+Error: 1.70788 %
+Performance: 3.54247e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 993549
+Error: 3.75133 %
+Performance: 3.54023e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1008184
+Error: 2.33359 %
+Performance: 3.59943e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1052625
+Error: 1.97157 %
+Performance: 3.56037e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1044719
+Error: 1.20569 %
+Performance: 3.59694e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1092431
+Error: 5.82772 %
+Performance: 3.57492e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1057437
+Error: 2.43773 %
+Performance: 3.52904e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1029481
+Error: 0.270471 %
+Performance: 3.57634e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1040861
+Error: 0.83195 %
+Performance: 3.54729e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1083730
+Error: 4.98482 %
+Performance: 3.59228e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1027971
+Error: 0.41675 %
+Performance: 3.57759e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1010496
+Error: 2.10962 %
+Performance: 3.56025e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 986442
+Error: 4.43981 %
+Performance: 3.57524e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1032983
+Error: 0.0687803 %
+Performance: 3.46144e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1039948
+Error: 0.743505 %
+Performance: 3.57644e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1006847
+Error: 2.46311 %
+Performance: 3.4861e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 962617
+Error: 6.74783 %
+Performance: 3.57958e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1093931
+Error: 5.97303 %
+Performance: 3.56297e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1006318
+Error: 2.51435 %
+Performance: 3.54807e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1082787
+Error: 4.89347 %
+Performance: 3.42479e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1022326
+Error: 0.963602 %
+Performance: 3.57655e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1022501
+Error: 0.946649 %
+Performance: 3.57388e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1075235
+Error: 4.16188 %
+Performance: 3.57449e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1015858
+Error: 1.59018 %
+Performance: 3.52994e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1037271
+Error: 0.484174 %
+Performance: 3.54022e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 972823
+Error: 5.75914 %
+Performance: 3.52303e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 995426
+Error: 3.5695 %
+Performance: 3.57282e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1008840
+Error: 2.27004 %
+Performance: 3.52089e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1018120
+Error: 1.37105 %
+Performance: 3.40983e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 997727
+Error: 3.3466 %
+Performance: 3.59708e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1025080
+Error: 0.696812 %
+Performance: 3.46937e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1077651
+Error: 4.39593 %
+Performance: 3.5678e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1101185
+Error: 6.67575 %
+Performance: 3.5776e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1003739
+Error: 2.76419 %
+Performance: 3.4946e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1083093
+Error: 4.92312 %
+Performance: 3.56125e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1000474
+Error: 3.08048 %
+Performance: 3.43677e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1033232
+Error: 0.0929018 %
+Performance: 3.56328e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1055235
+Error: 2.22441 %
+Performance: 3.57437e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1075573
+Error: 4.19463 %
+Performance: 3.3877e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1039329
+Error: 0.68354 %
+Performance: 3.59874e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 938867
+Error: 9.04858 %
+Performance: 3.56769e+08 bytes/second
+Actual intersection cardinality: 1032273
+Estimated intersection cardinality: 1058963
+Error: 2.58556 %
+Performance: 3.52058e+08 bytes/second
